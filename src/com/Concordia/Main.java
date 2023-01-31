@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Main {
+public class Main  {
 
     public int generateRandomPrimeNumber() {
         int maxRange = (int) Math.pow(2.0, 16.0);
